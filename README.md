@@ -1,5 +1,11 @@
 # SchoolApp
 
+Use below version for dependencies:
+
+Angular 4.0.0,
+npm 3.10.10,
+node v6.11.1 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
 ## Development server
